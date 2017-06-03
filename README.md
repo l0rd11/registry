@@ -6,4 +6,4 @@ Registry is a Eureka registry server for sius course.
 ```
 $ gradlew bootRun
 ```
-Server will be available at `localhost:8765`.
+Server will be available at `localhost:8761`.
